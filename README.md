@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://product-preview-card-component-taki.netlify.app/](https://product-preview-card-component-taki.netlify.app/)
 
 ## My process
 
