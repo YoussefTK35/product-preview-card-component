@@ -22,7 +22,9 @@ body{
 
     img[alt='Product']{
         width: 50%;
-        src: url(images/image-product-mobile.jpg);
+    }
+    img[alt='product']{
+        display: none;
     }
 
     .sub-container{
@@ -104,11 +106,11 @@ body{
         width: 100%;
 
         img[alt='Product']{
-            src: url(images/image-product-mobile.jpg);
+            display: none;
+        }
+        img[alt='product']{
+            display: block;
             width: 100%;
-            background-position: center;
-            background-size: cover;
-            background-attachment: fixed;
         }
         .sub-container{
             width: 100%;
